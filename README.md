@@ -1,4 +1,5 @@
 # React & Redux Saga
+https://lesson44-hw-42-react-redux-basic.vercel.app/
 
 Створено проект лічильник за допомогою react та redux-saga
 
